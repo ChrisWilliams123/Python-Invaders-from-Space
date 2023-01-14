@@ -1,5 +1,8 @@
 # Python-Invaders-from-Space
 
+Python homage to the arcade classic Space Invaders.
+<br>
+<br>
 How to Play:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WASD - Movement<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Space - Fire<br>
