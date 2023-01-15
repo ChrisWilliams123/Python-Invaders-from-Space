@@ -1,4 +1,4 @@
-# Python-Invaders-from-Space
+# Python-Invaders-from-Space-Game
 
 Python homage to the arcade classic Space Invaders.
 <br>
